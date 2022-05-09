@@ -1,0 +1,17 @@
+.comment-container{
+    border: 5px solid blue;
+}
+.comment-form-title{
+    padding: 16px 32px;
+    font-weight: bold;
+}
+
+.card {
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    height: 200px;
+    border-radius: 10px;
+    backdrop-filter: blur(14px);
+}
